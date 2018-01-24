@@ -7,4 +7,3 @@ class Project
   end
 
 end
-  
