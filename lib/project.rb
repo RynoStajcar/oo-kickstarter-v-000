@@ -9,6 +9,6 @@ class Project
   end
 
   def add_backer(Baker)
-    backers << backer
+    backers << Backer
   end
 end
